@@ -40,9 +40,17 @@ class ContactBook:
 contact_book = ContactBook()
 
 # Adding contacts
-contact_book.add_contact('Mahak', '1234567890')
-contact_book.add_contact('Sejal', '9876543210')
-contact_book.add_contact('Pratham', '1111111111')  # Duplicate name 'Mahak'
+contact_book.add_contact('Mahak', '9897972138')
+contact_book.add_contact('Sejal', '9838837838')
+contact_book.add_contact('Sohan', '9468478928')
+contact_book.add_contact('Aditi', '9446378291')
+contact_book.add_contact('Sures', '8835735728')
+contact_book.add_contact('Mahes', '8835653765')
+contact_book.add_contact('Rohan', '9863763678')
+contact_book.add_contact('Bilal', '9937378294')
+contact_book.add_contact('Swety', '8845375694')
+contact_book.add_contact('Sweta', '9824266277')
+
 
 # Displaying contacts
 contact_book.display_contacts()
